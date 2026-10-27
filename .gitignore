@@ -1,0 +1,4 @@
+The Welding Defect Dataset*
+merged/
+*.zip
+__pycache__/
